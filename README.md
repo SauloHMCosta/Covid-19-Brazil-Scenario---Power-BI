@@ -1,6 +1,6 @@
 # Covid-19-Brazil-Scenario---Power-BI
 
-The idea is to bring an one page Report showing up the deaths and confirmed cases in both State and Cities in Brazil
+The idea of this report  is to bring one page Report showing up the deaths and confirmed cases in both State and Cities in Brazil
 
 #Important!!!!
 Dados informativos e casos do coronavírus casos confirmados e óbitos obtidos dos boletins das Secretarias Estaduais de Saúde.
